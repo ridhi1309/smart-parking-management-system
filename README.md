@@ -36,7 +36,3 @@ The current version stores parking records in memory. Records are not permanentl
 Author
 
 Ridhi Thakur
-
-License
-
-Add a license if you want to specify how others may use your code.
