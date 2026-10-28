@@ -25,10 +25,15 @@ Parking Fee
 The parking rate is ₹20 per billable hour. The system rounds parking duration up to the next hour and charges a minimum of one hour.
 
 How to Run
+
 Install JDK 8 or later.
+
 Clone or download this repository.
+
 Open the project in IntelliJ IDEA, Eclipse, or NetBeans.
+
 Run the smartparking.SmartParkingApp main class.
+
 Data Storage
 
 The current version stores parking records in memory. Records are not permanently saved after the application closes.
