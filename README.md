@@ -6,7 +6,7 @@ Project Overview
 
 A Java Swing desktop application designed to manage parking slots, track vehicles, calculate parking fees, and display parking statistics.
 
-Technologies Used
+Technologies Used:
 
 Java
 
@@ -19,7 +19,7 @@ Java Collections Framework
 Java Date and Time API
 
 
-Features
+Features:
 
 Management of 10 parking slots
 
@@ -40,7 +40,7 @@ Parking Fee
 
 The parking rate is ₹20 per billable hour. The system rounds parking duration up to the next hour and charges a minimum of one hour.
 
-How to Run
+How to Run:
 
 Install JDK 8 or later.
 
